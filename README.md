@@ -13,7 +13,7 @@ Learn how to create awesome Microservices and RESTful web services with Spring a
   - [Find Us](#useful-links)
   - [Other Courses](#other-courses)
 
-### Introduction
+### Introduction 
 
 Developing RESTful web services is fun. The combination of Spring Boot, Spring Web MVC, Spring Web Services and JPA makes it even more fun. And its even more fun to create Microservices.
 
