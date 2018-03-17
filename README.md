@@ -10,7 +10,7 @@ Learn how to create awesome Microservices and RESTful web services with Spring a
 * [About in28Minutes](#about-in28minutes)
   - [Our Beliefs](#our-beliefs)
   - [Our Approach](#our-approach)
-  - [Find Us](#useful-links)
+  - [Find Us](#useful-links) 
   - [Other Courses](#other-courses)
 
 ### Introduction 
